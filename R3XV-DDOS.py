@@ -6,7 +6,7 @@ def usage():
     print "\033[1;32m############################################################"
     print "#-----------------------[\033[1;91mR3XV-DDOS\033[1;32m]-----------------------#"
     print "#----------------------------------------------------------#"
-    print "#   \033[1;91mCommand: " "python2 TamfanDdos.py " "<ip> <port> <packet> \033[1;32m #"
+    print "#   \033[1;91mCommand: " "python2 R3XV-DDOS.py " "<ip> <port> <packet> \033[1;32m #"
     print "#                                                        ##"
     print "#\033[1;91mCreator:R3XV  \033[1;32m##      #      #                     ##"
     print "#\033[1;91mTeam   : MCI        \033[1;32m##     #      #                     ##"
